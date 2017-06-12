@@ -1,7 +1,7 @@
 # 2017DAMOP-spin-squeezing-on-nanophotonic-waveguides
 APS/DAMOP talk slides on Generation of atomic spin squeezed states in nanophotonic waveguides using QND measurement.
 
-Slides can be downloaded [here](https://github.com/i2000s/2017DAMOP-spin-squeezing-on-nanophotonic-waveguides/releases).
+Slides and the audio record of the talk can be downloaded [here](https://github.com/i2000s/2017DAMOP-spin-squeezing-on-nanophotonic-waveguides/releases).
 
 Talk information can be found [here](https://purl.org/qxd/en/2017/06/04/damop-2017-talk.html).
 
